@@ -6,6 +6,8 @@
     <title>Hotel Reservation</title>
 </head>
 <body>
-    
+    <?php
+        echo "Hello";
+    ?>
 </body>
 </html>
